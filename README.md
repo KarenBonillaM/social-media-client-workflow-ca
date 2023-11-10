@@ -1,5 +1,7 @@
 Workflow CA - Noroff
 
+[![Deploy static content to Pages](https://github.com/KarenBonillaM/social-media-client-workflow-ca/actions/workflows/pages.yml/badge.svg)](https://github.com/KarenBonillaM/social-media-client-workflow-ca/actions/workflows/pages.yml)
+
 [![Automated Unit Testing](https://github.com/KarenBonillaM/social-media-client-workflow-ca/actions/workflows/unit-test.yml/badge.svg?branch=workflow)](https://github.com/KarenBonillaM/social-media-client-workflow-ca/actions/workflows/unit-test.yml)
 
 [![E2E Testing](https://github.com/jakotide/social-media-client/actions/workflows/e2e-testing.yml/badge.svg?branch=workflow)](https://github.com/jakotide/social-media-client/actions/workflows/e2e-testing.yml)

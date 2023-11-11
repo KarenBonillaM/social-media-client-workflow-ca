@@ -8,6 +8,8 @@ Badges.
 
 [![E2E Testing](https://github.com/jakotide/social-media-client/actions/workflows/e2e-testing.yml/badge.svg?branch=workflow)](https://github.com/jakotide/social-media-client/actions/workflows/e2e-testing.yml)
 
+[![Code Review](https://github.com/KarenBonillaM/social-media-client-workflow-ca/actions/workflows/gpt.yml/badge.svg)](https://github.com/KarenBonillaM/social-media-client-workflow-ca/actions/workflows/gpt.yml)
+
 Description.
 
 Using the skills and knowledge from "Workflow" course, we have to improve the quality of a package by establishing helpful workflows that make the development process more efficient.

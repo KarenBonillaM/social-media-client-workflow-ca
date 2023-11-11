@@ -16,11 +16,16 @@ In this CA I was tasked with improving the quality of a social media application
 
 Getting Started.
 
-- Clone the repository
-  git clone git@github.com:KarenBonillaM/social-media-client-workflow-ca.git
-- Install dependencies
+- Clone the repository.
+
+  git clone <git@github.com:KarenBonillaM/social-media-client-workflow-ca.git>
+
+- Install dependencies.
+
   npm install
-- Build SASS
+
+- Build SASS.
+
   npm run build
 
 Configurations.

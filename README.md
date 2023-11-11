@@ -34,6 +34,8 @@ Configurations.
 - ESlint: Makes sure the JavaScript is well written and that follows the coding standards.
 - Hooks: I used a pre-commit hook that will automatically run ESLint and Prettier on all files in the repository.
 
+Default branch is protected: That means, we can't merge any changes into the master branch until before passing the unit and e2e tests.
+
 Testing
 
 Unit Testing with Jest.
